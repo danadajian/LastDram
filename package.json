@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "amplify-graphql-docs-generator": "2.2.4",
-    "apollo": "2.33.9",
+    "apollo": "2.34.0",
     "husky": "8.0.1"
   },
   "scripts": {
